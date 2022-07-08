@@ -6,23 +6,23 @@
 
 <br />
  
-<div><b>Занимаюсь разработкой клиентской части сайтов. Мой основной стек - MERN. <br /> На данный момент изучаю TypeScript.</b></div>
+<div><b>Занимаюсь разработкой клиентской части сайтов. Мой основной стек - MERN.</b></div>
 
 <br />
 
 **Полный Стек:**
-
-
-- MongoDB
-- ExpressJS 
+- JavaScript
 - React
-- NodeJS
-- HTML5, CSS3, JavaScript ES6
+- HTML5, CSS3, SASS
 - Redux, Redux Toolkit
+- MongoDB
+- Mongoose
+- ExpressJS 
+- NodeJS
 - React router dom v6
 - DOM
 - Webpack
-- Mongoose
+
  
  <br />
  
