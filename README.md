@@ -28,13 +28,12 @@
  
 ---------------------------------------
 
-
  Мои проекты:
 
-## 1
+## 1 Книжный магазин
 - [Код Frontend](https://github.com/M4nsur/Open-book-front.git)
 - [Код Backend](https://github.com/M4nsur/OpenBook-back.git)
 
-## 2
+## 2 Биржа фриланса
 - [Код Frontend](https://github.com/M4nsur/Prancing-Pony-front.git)
 - [Код Backend](https://github.com/M4nsur/Prancing-Pony-back.git)
