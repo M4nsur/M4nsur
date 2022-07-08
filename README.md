@@ -26,9 +26,3 @@
  
  <br />
  
- 
-## Связь со мной: 
-
-| WhatsApp          |         Email          |   Telegram  |
-| ------------- |   :---------------:    | ------------------: |
-| [![WhatsApp](https://img.shields.io/badge/Whatsapp-111111?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=79899028471)        |   [![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail)](mailto:vakhabov.mans@gmail.com)  | [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/https://t.me/iz1890)  |
