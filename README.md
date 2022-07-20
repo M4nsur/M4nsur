@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" height="230"/>
+  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="230"/>
 </p>
  
 <h1 align="center" >Всем привет, меня зовут Мансур и Я Frontend Разработчик! 👨🏻‍💻 </h1>
