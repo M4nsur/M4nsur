@@ -35,7 +35,9 @@
 - [Код Backend](https://github.com/M4nsur/OpenBook-back.git)
 Мой функционал: Пагинация на фронте, работа с БД, разделы "новинки и "скидки". 
 
+
 ## 2 Биржа фриланса
 - [Код Frontend](https://github.com/M4nsur/Prancing-Pony-front.git)
 - [Код Backend](https://github.com/M4nsur/Prancing-Pony-back.git)
+
 Мой функционал: Пагинация на фронте, живой поиск, вывод рангов. 
