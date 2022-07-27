@@ -40,4 +40,4 @@
 - [Код Frontend](https://github.com/M4nsur/Prancing-Pony-front.git)
 - [Код Backend](https://github.com/M4nsur/Prancing-Pony-back.git)
 
-Мой функционал: Пагинация на фронте, живой поиск, вывод рангов. 
+Мой функционал: Пагинация на фронте, живой поиск, ранги/рейтинг пользователей.
