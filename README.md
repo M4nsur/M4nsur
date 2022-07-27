@@ -33,6 +33,7 @@
 ## 1 Книжный магазин
 - [Код Frontend](https://github.com/M4nsur/Open-book-front.git)
 - [Код Backend](https://github.com/M4nsur/OpenBook-back.git)
+
 Мой функционал: Пагинация на фронте, работа с БД, разделы "новинки и "скидки". 
 
 
