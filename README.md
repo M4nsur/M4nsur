@@ -42,3 +42,7 @@
 - [Код Backend](https://github.com/M4nsur/Prancing-Pony-back.git)
 
 Мой функционал: Пагинация на фронте, живой поиск, ранги/рейтинг пользователей.
+
+Связаться со мной: 
+Мой телеграм: https://t.me/iz1890
+Моя почта: vakhabov.mans@gmail.com
