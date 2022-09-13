@@ -13,6 +13,7 @@
 **Полный Стек:**
 - JavaScript
 - React
+- TypeScript
 - HTML5, CSS3, SASS
 - Redux, Redux Toolkit
 - MongoDB
