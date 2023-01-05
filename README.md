@@ -12,6 +12,7 @@
 
 **Полный Стек:**
 - JavaScript
+- Vue
 - React
 - TypeScript
 - HTML5, CSS3, SASS
