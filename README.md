@@ -53,3 +53,8 @@
 Мой телеграм: https://t.me/iz1890
 
 Моя почта: vakhabov.mans@gmail.com
+
+<a href="https://github.com/M4nsur/M4nsur"> 
+   <img src="https://komarev.com/ghpvc/?username=юзернейм" alt="page views" /> 
+ </a>
+
