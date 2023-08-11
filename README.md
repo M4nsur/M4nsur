@@ -2,33 +2,6 @@
   <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="230"/>
 </p>
  
-<h1 align="center" >Всем привет, меня зовут Мансур и Я Frontend Разработчик! 👨🏻‍💻 </h1>
-
-<br />
- 
-<div><b>Занимаюсь разработкой клиентской части сайтов.
-
-<br />
-
-**Полный Стек:**
-- JavaScript
-- Vue 3
-- Vuex
-- React
-- TypeScript
-- HTML5, CSS3, SASS
-- Redux, Redux Toolkit
-- MongoDB
-- Mongoose
-- ExpressJS 
-- NodeJS
-- React router dom v6
-- DOM
-- Webpack
-
- 
- <br />
-
  
 ---------------------------------------
 ## Связаться со мной: 
