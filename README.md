@@ -4,7 +4,6 @@
  
  
 ---------------------------------------
-## Связаться со мной: 
-Мой телеграм: https://t.me/iz1890
+## Contacts: 
+Telegram: https://t.me/iz1890
 
-Моя почта: vakhabov.mans@gmail.com
