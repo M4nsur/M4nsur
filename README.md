@@ -1,4 +1,4 @@
-Frontend Developer
+Frontend Developer (React | Vue 3)
  
 
 ## Contacts: 
