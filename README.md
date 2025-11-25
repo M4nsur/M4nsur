@@ -1,4 +1,4 @@
-Developer (React | Vue 3)
+Software developer (React | Vue 3)
  
 
 ## Contacts: 
